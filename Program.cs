@@ -8,5 +8,5 @@ var log = Singleton.Singleton.Log.Instance;
 log.guardarlog("J");
 log.guardarlog("o");
 log.guardarlog("s");
-log.guardarlog("e");
+log.guardarlog("G");
 
